@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/infam/Documents/ML%20Project/src/mlruns/0/6d58d73a23af4d2a8fc956086a29aeb1/artifacts
+end_time: 1750376210354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d58d73a23af4d2a8fc956086a29aeb1
+run_name: dapper-duck-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750376210250
+status: 3
+tags: []
+user_id: infam
